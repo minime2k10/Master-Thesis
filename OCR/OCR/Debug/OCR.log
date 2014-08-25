@@ -1,0 +1,27 @@
+﻿Build started 23/08/2014 10:06:59.
+     1>Project "C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\OCR\OCR.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OCR.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Program Files\Visual Studio 2010\VC\bin\CL.exe /c /I"D:\Program Files\opencv\build\x86\vc10\..\..\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\OCR.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\Program Files\Visual Studio 2010\VC\bin\CL.exe /c /I"D:\Program Files\opencv\build\x86\vc10\..\..\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\OCR.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OCR.cpp Square.cpp
+         Skipping... (no relevant changes detected)
+         Square.cpp
+         OCR.cpp
+       Link:
+         d:\Program Files\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\Debug\OCR.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Program Files\opencv\build\x86\vc10\lib" opencv_core246.lib opencv_imgproc246.lib opencv_highgui246.lib opencv_ml246.lib opencv_video246.lib opencv_features2d246.lib opencv_calib3d246.lib opencv_objdetect246.lib opencv_contrib246.lib opencv_legacy246.lib opencv_flann246.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OCR.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\Debug\OCR.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\Debug\OCR.lib" /MACHINE:X86 Debug\OCR.obj
+         Debug\Square.obj
+         Debug\stdafx.obj
+     1>OCR.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         OCR.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\Debug\OCR.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\Debug\OCR.exe;#1" /manifest Debug\OCR.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\OCR.unsuccessfulbuild".
+         Touching "Debug\OCR.lastbuildstate".
+     1>Done Building Project "C:\Users\Chris\Documents\Visual Studio 2010\Projects\OCR\OCR\OCR.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.66

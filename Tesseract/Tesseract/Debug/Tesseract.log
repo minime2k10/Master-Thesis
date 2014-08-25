@@ -1,0 +1,18 @@
+﻿Build started 23/08/2014 10:38:22.
+     1>Project "C:\Users\Chris\Documents\Visual Studio 2010\Projects\Tesseract\Tesseract\Tesseract.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Tesseract.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Tesseract.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2010\Projects\Tesseract\Debug\Tesseract.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Tesseract.unsuccessfulbuild".
+         Touching "Debug\Tesseract.lastbuildstate".
+     1>Done Building Project "C:\Users\Chris\Documents\Visual Studio 2010\Projects\Tesseract\Tesseract\Tesseract.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
